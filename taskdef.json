@@ -1,9 +1,9 @@
 {
-    "family": "hello-world",
+    "family": "Spangler",
     "containerDefinitions": [
         {
             "image": "%REPOSITORY_URI%:v_%BUILD_NUMBER%",
-            "name": "hello-world",
+            "name": "Scott-Spangler",
             "cpu": 10,
             "memory": 256,
             "essential": true,
