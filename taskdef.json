@@ -1,5 +1,5 @@
 {
-    "family": "ECS-Test",
+    "family": "ECS-Test-Builds",
     "containerDefinitions": [
         {
             "image": "%REPOSITORY_URI%:v_%BUILD_NUMBER%",
